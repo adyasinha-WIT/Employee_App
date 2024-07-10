@@ -1,0 +1,44 @@
+C:\Users\1810a\Downloads\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\1810a\Downloads\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\1810a\Downloads\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.frmEployeeApp.resources
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.cache
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\1810a\Downloads\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\adya.sinha\Downloads\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\adya.sinha\Downloads\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\adya.sinha\Downloads\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.frmEployeeApp.resources
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\adya.sinha\Downloads\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.frmEployeeApp.resources
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\adya.sinha\Downloads\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.frmEployeeApp.resources
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\1810a\OneDrive - Whitireia and WelTec\Year1_'23\Tri2_July'23\IT5503 Prog I\EmployeeApp (3)\EmployeeApp (2)\EmployeeApp\obj\Debug\EmployeeApp.pdb
